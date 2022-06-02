@@ -1,5 +1,20 @@
 # Changelog
 
+## [4.1.0](https://github.com/GoogleCloudPlatform/public-datasets-pipelines/compare/v4.0.0...v4.1.0) (2022-06-02)
+
+
+### Features
+
+* Adds a simple mapping tutorial for the GBIF dataset ([#360](https://github.com/GoogleCloudPlatform/public-datasets-pipelines/issues/360)) ([e7a726a](https://github.com/GoogleCloudPlatform/public-datasets-pipelines/commit/e7a726a486928964042956849124bb1ee12153f1))
+* Onboard Cloud Storage Geo Index ([#367](https://github.com/GoogleCloudPlatform/public-datasets-pipelines/issues/367)) ([63cdb2a](https://github.com/GoogleCloudPlatform/public-datasets-pipelines/commit/63cdb2aef0c840bca85de71f2268547468da1606))
+* Onboard EPA Historical Air Quality ([#370](https://github.com/GoogleCloudPlatform/public-datasets-pipelines/issues/370)) ([ba473c6](https://github.com/GoogleCloudPlatform/public-datasets-pipelines/commit/ba473c67fa5988eff23ca1dd33c3e06d9ff81cd2))
+* Onboard IDC v9 dataset ([#364](https://github.com/GoogleCloudPlatform/public-datasets-pipelines/issues/364)) ([bfb9f23](https://github.com/GoogleCloudPlatform/public-datasets-pipelines/commit/bfb9f239368494b7842c0ccde3351a979a77e11c))
+
+
+### Bug Fixes
+
+* Revised COVID-19 Google Mobility dataset ([#363](https://github.com/GoogleCloudPlatform/public-datasets-pipelines/issues/363)) ([ddd3dac](https://github.com/GoogleCloudPlatform/public-datasets-pipelines/commit/ddd3dac5d6a9a22bd70f47b10194d6f3d1291c34))
+
 ## [4.0.0](https://github.com/GoogleCloudPlatform/public-datasets-pipelines/compare/v3.0.0...v4.0.0) (2022-05-23)
 
 
