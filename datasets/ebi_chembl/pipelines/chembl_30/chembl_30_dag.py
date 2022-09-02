@@ -95,7 +95,7 @@ with DAG(
                 "name": "action_type",
                 "type": "string",
                 "mode": "required",
-                "description": "Primary key. Type of action of the drug e.g., agonist, antagonist",
+                "description": "Primary key. Type of action of the drug e.g., agonist, antagonist.",
             },
             {
                 "name": "description",
